@@ -1,0 +1,5 @@
+Example Text
+Trying with
+	saveFile.open()
+instead of
+	saveFile = open(exampleWrite.txt,w)
